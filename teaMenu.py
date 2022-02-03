@@ -122,7 +122,52 @@ teas = [
 {
     "Name":"Ginger Peach",
     "Style":"White Tea",
-    "Desc":""
+    "Desc":"Peaches, ginger and rare white tea."
+},
+{
+    "Name":"Mango Sorbet",
+    "Style":"White Tea",
+    "Desc":"Tropical mango and taste of mango sorbet."
+},
+{
+    "Name":"Melon Pear",
+    "Style":"White Tea",
+    "Desc":"Melon Pear White Tea"
+},
+{
+    "Name":"Pomegranate",
+    "Style":"White Tea",
+    "Desc":"Tangy, sweet punch of California pomegranates."
+},
+{
+    "Name":"Silver Needle",
+    "Style":"White Tea",
+    "Desc":"Clear, delicate, nectar-like infusion."
+},
+{
+    "Name":"Strawberry",
+    "Style":"White Tea",
+    "Desc":"Strawberries and the delicate, nectar-like flavor of rare white tea."
+},
+{
+    "Name":"Tropical Ambrosia",
+    "Style":"White Tea",
+    "Desc":"Youthful and flirtatious"
+},
+{
+    "Name":"White Chai",
+    "Style":"White Tea",
+    "Desc":"Cinnamon, Spice. white tea base"
+},
+{
+    "Name":"White Peony",
+    "Style":"White Tea",
+    "Desc":"Reserve grade white peony"
+},
+{
+    "Name":"Wild Blueberry",
+    "Style":"White Tea",
+    "Desc":"Tastes like blueberries"
 },
 {
     "Name":"",
@@ -143,5 +188,5 @@ teas = [
     "Name":"",
     "Style":"",
     "Desc":""
-}
+},
 ]

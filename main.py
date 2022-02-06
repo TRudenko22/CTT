@@ -6,15 +6,13 @@ from rich import print as rprint
 dctTea = random.choice(teas)
 
 sTeaFormat = f"""
-    Name: {dctTea['Name']}
-
-    Tea Type: {dctTea['Style']}
-
-    Tea Description: {dctTea['Desc']}
+   [yellow] Name: [/yellow][green]{dctTea['Name']} [/green]
+   [yellow] Tea Type:[/yellow] [green]{dctTea['Style']} [/green]
+   [yellow] Tea Description:[/yellow][green] {dctTea['Desc']} [/green]
 """
 
 rprint("\n[green]Welcome to the Crepes Tea House Tea Selector[/green]")
-rprint("[cyan]Your Tea for this evening is:[/cyan]")
+rprint("[green]Your Tea for this evening is:[/green]")
 time.sleep(3)
-print(sTeaFormat)
+rprint(sTeaFormat)
 

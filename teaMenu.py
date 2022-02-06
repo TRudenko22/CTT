@@ -170,6 +170,116 @@ teas = [
     "Desc":"Tastes like blueberries"
 },
 {
+    "Name":"Blueberry",
+    "Style":"Green Tea",
+    "Desc":"Blueberries and green tea base"
+},
+{
+    "Name":"Chocolate Delight",
+    "Style":"Green Tea",
+    "Desc":"Black Tea, Cocoa beans and Green Tea"
+},
+{
+    "Name":"Cranberry Harvest",
+    "Style":"Green Tea",
+    "Desc":"Rich cranberry flavor infused with Green Tea"
+},
+{
+    "Name":"Cucumber Mint Mojito",
+    "Style":"Green Tea",
+    "Desc":"Based off of the alcholic beverage"
+},
+{
+    "Name":"Dragon Well",
+    "Style":"Green Tea",
+    "Desc":"Orchid and chestnut infusion"
+},
+{
+    "Name":"Ginger Orange Peach",
+    "Style":"Green Tea",
+    "Desc":"Ginger Zest Infusion"
+},
+{
+    "Name":"Green Paradise Blend",
+    "Style":"Green Tea",
+    "Desc":"Strawberry, Rhubarb, and stuff"
+},
+{
+    "Name":"Gunpowder Green",
+    "Style":"Green Tea",
+    "Desc":"More tender than the regular stuff"
+},
+{
+    "Name":"Himalayan Green",
+    "Style":"Green Tea",
+    "Desc":"Earthy, Antioxidant rich"
+},
+{
+    "Name":"Japanese Genmaicha",
+    "Style":"Green Tea",
+    "Desc":"Very japanese"
+},
+{
+    "Name":"Jasmine Green",
+    "Style":"Green Tea",
+    "Desc":"Wild jasmine infusion"
+},
+{
+    "Name":"Jasmine Pearl",
+    "Style":"Green Tea",
+    "Desc":"Jasmine with more drama"
+},
+{
+    "Name":"Lemon Green",
+    "Style":"Green Tea",
+    "Desc":"Lemon Green Tea"
+},
+{
+    "Name":"Lime Blossom",
+    "Style":"Green Tea",
+    "Desc":"Added lemongrass and lime"
+},
+{
+    "Name":"Mango Rose",
+    "Style":"Green Tea",
+    "Desc":"Mango With some Rosebuds"
+},
+{
+    "Name":"Moroccan Mint",
+    "Style":"Green Tea",
+    "Desc":"Gunpowder green with with some mint"
+},
+{
+    "Name":"Papaya Mango Mate",
+    "Style":"Green Tea",
+    "Desc":"Yerba Mate blend"
+},
+{
+    "Name":"Passion Fruit Kiwi Green",
+    "Style":"Green Tea",
+    "Desc":"Over the top a bit"
+},
+{
+    "Name":"Pineapple Green",
+    "Style":"Green Tea",
+    "Desc":"What it says it is"
+},
+{
+    "Name":"Pomegranate",
+    "Style":"Green Tea",
+    "Desc":"It's pomegranate tea"
+},
+{
+    "Name":"Raspberry",
+    "Style":"Green Tea",
+    "Desc":"Raspberry green tea"
+},
+{
+    "Name":"Sweet Pear",
+    "Style":"Green Tea",
+    "Desc":"Sweet Pear Green tea"
+},
+{
     "Name":"",
     "Style":"",
     "Desc":""

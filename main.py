@@ -1,5 +1,7 @@
 from teaMenu import *
 import random
+import time
+from rich import print as rprint
 
 dctTea = random.choice(teas)
 
@@ -11,7 +13,8 @@ sTeaFormat = f"""
     Tea Description: {dctTea['Desc']}
 """
 
-print("\nWelcome to the Crepes Tea House Tea Selector")
-print("Your Tea for this evening is:")
+rprint("\n[green]Welcome to the Crepes Tea House Tea Selector[/green]")
+rprint("[cyan]Your Tea for this evening is:[/cyan]")
+time.sleep(3)
 print(sTeaFormat)
 

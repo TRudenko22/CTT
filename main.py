@@ -2,12 +2,7 @@ from teaMenu import *
 import random
 import time
 from rich import print as rprint
-from tabulate import tabulate
-
 dctTea = random.choice(teas)
-
-teaChoice = [dctTea['Name'], dctTea["Style"], dctTea['Desc']]
-
 
 sTeaFormat = f"""
    [yellow] Name: [/yellow][green]{dctTea['Name']} [/green]
